@@ -6,7 +6,19 @@
     <description>Recent content on Alireza&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Mar 2023 21:01:13 +0330</lastBuildDate><atom:link href="https://alirezanobakht13.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Apr 2023 17:18:32 +0330</lastBuildDate><atom:link href="https://alirezanobakht13.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graph Neural Networks (GNNs)</title>
+      <link>https://alirezanobakht13.github.io/posts/gnns/</link>
+      <pubDate>Tue, 25 Apr 2023 17:18:32 +0330</pubDate>
+      
+      <guid>https://alirezanobakht13.github.io/posts/gnns/</guid>
+      <description>This post is a summary of lectures 6 to 8 (Videos 17 to 25) of Stanford CS224W, &amp;lsquo;Machine Learning with Graphs&amp;rsquo; course. (youtube)
+Introduction to Graph Neural Networks The goal is to find an encoding of vector $v$ based graph structure
+$$ ENC(v) = \text{Multiple layers of non-linear transformation} \ \text{based on graph structure} $$
+Deep Graph Encoder Tasks Node classification Link prediction Community detection Network similarity 😐 Modern deep learning toolbox is designed for simple sequences and grids</description>
+    </item>
+    
     <item>
       <title>Test</title>
       <link>https://alirezanobakht13.github.io/posts/test/</link>
